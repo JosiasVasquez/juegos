@@ -1,8 +1,8 @@
 # Resumen del Video 14: El Comunicador.
 
-[Ir al índice](index.md)
-[ir a resumen anterior](video13.md)
-[ir a resumen siguiente](video15.md)
+- [Ir al índice](index.md)
+- [ir a resumen anterior](video13.md)
+- [ir a resumen siguiente](video15.md)
 
 Al igual que en Eurofly 2, tenemos la posibilidad de enviar y recibir mensajes de los demás jugadores conectados al juego a través del comunicador. Esta característica, de la misma forma que en la versión anterior, se activa pulsando la combinación control shift G y dando tab para cambiar la pantalla del juego. No obstante, para esta nueva versión se han implementado algunas características que se explican a continuación.
 
@@ -18,6 +18,6 @@ Los canales de comunicación funcionan de la misma forma que en Eurofly 2, de 1 
 
 Para esta versión se implementó la posibilidad de enviar notas de voz mediante el comunicador. Desde cualquier cuadro de chat que abramos usando ya sea el comando Alt G, Alt A o Control R, veremos un botón para grabar un mensaje de voz. Este botón se acciona pulsando la barra espaciadora, y se finaliza la grabación volviendo a pulsar la misma tecla. Al iniciar la grabación escucharemos un tono que nos indicará que se ha iniciado, y de la misma forma al finalizar el mensaje y volver a pulsar la barra. Es importante dejar un margen de tiempo luego de terminar de hablar, ya que los mensajes podrían cortarse al final.
 
-[ir a resumen anterior](video13.md)
-[ir a resumen siguiente](video15.md)
-[Ir al índice](index.md)
+- [ir a resumen anterior](video13.md)
+- [ir a resumen siguiente](video15.md)
+- [Ir al índice](index.md)

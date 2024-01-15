@@ -1,8 +1,8 @@
 # Resumen del Video 7: Propiedades del avión.
 
-[Ir al índice](index.md)
-[ir a resumen anterior](video6.md)
-[ir a resumen siguiente](video8.md)
+- [Ir al índice](index.md)
+- [ir a resumen anterior](video6.md)
+- [ir a resumen siguiente](video8.md)
 
 Como en la versión 2 del juego, no todos los aviones tienen las mismas propiedades y sistemas. Acá se resumen los elementos o propiedades que tiene uno de los aviones más grandes del juego, un Airbus A380.
 
@@ -41,6 +41,6 @@ En la lista de las propiedades del avión veremos algunos nuevos sistemas como p
 14. GPWS: Este es el sistema anti colisión. Es decir, este sistema nos va a alertar si nos estamos aproximando a una montaña o si hay terreno muy cerca.
 15. Indicación de ángulo (bank angle): Esta alarma o indicación auditiva se refiere a los momentos en los que el avión no está en posición horizontal ya sea sobre la tierra o en el aire. Es decir, se activa si estamos haciendo un viraje o si la nariz del avión está inclinada.
 
-[ir a resumen anterior](video6.md)
-[ir a resumen siguiente](video8.md)
-[Ir al índice](index.md)
+- [ir a resumen anterior](video6.md)
+- [ir a resumen siguiente](video8.md)
+- [Ir al índice](index.md)

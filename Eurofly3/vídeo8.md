@@ -1,8 +1,8 @@
 # Resumen del Video 8: Manejando el avión.
 
-[Ir al índice](index.md)
-[ir a resumen anterior](video7.md)
-[ir a resumen siguiente](video9.md)
+- [Ir al índice](index.md)
+- [ir a resumen anterior](video7.md)
+- [ir a resumen siguiente](video9.md)
 
 Básicamente, se explica en el video los  diferentes controles que tienen los aviones según la categoría, y lo demuestra realizando un pequeño vuelo de práctica en el que despega de un aeródromo de categoría 3, vuela por 7 km y regresa al mismo aeropuerto. En este caso utiliza un Cesna C1-52.
 
@@ -17,6 +17,6 @@ Básicamente, se explica en el video los  diferentes controles que tienen los av
 
 Este fue todo el tutorial de hoy y la descripción del vuelo de demostración.
 
-[ir a resumen anterior](video7.md)
-[ir a resumen siguiente](video9.md)
-[Ir al índice](index.md)
+- [ir a resumen anterior](video7.md)
+- [ir a resumen siguiente](video9.md)
+- [Ir al índice](index.md)

@@ -1,8 +1,8 @@
 # Resumen del video 6: Tipos de vuelos y aviones.
 
-[Ir al índice](index.md)
-[ir a resumen anterior](video5.md)
-[ir a resumen siguiente](video7.md)
+- [Ir al índice](index.md)
+- [ir a resumen anterior](video5.md)
+- [ir a resumen siguiente](video7.md)
 
 ## Introducción
 
@@ -32,6 +32,6 @@ El segundo tipo de vuelo son los vuelos de negocios (Business flights) en los cu
 
 El tercer y último tipo de vuelos son los vuelos programados. En esta opción podremos reservar un vuelo que deberemos hacer en una fecha y hora específica cada vez. Es decir, que si un vuelo debe hacerse los domingos entre la 1:00 y 5:00 pm, siempre vamos a ser nosotros los encargados de ese vuelo. Este vuelo también aumenta más el rango y otorga más dinero, pero solo si se cumple el compromiso de realizarlo cada vez. Algunos de los vuelos de negocios también son programados.
 
-[ir a resumen anterior](video5.md)
-[ir a resumen siguiente](video7.md)
-[Ir al índice](index.md)
+- [ir a resumen anterior](video5.md)
+- [ir a resumen siguiente](video7.md)
+- [Ir al índice](index.md)

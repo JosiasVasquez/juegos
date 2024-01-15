@@ -1,8 +1,8 @@
 # Resumen del Video 12: Aeropuertos y cómo navegarlos.
 
-[Ir al índice](index.md)
-[ir a resumen anterior](video11.md)
-[ir a resumen siguiente](video13.md)
+- [Ir al índice](index.md)
+- [ir a resumen anterior](video11.md)
+- [ir a resumen siguiente](video13.md)
 
 Al igual que en Eurofly 2, en Eurofly 3 tenemos aeropuertos de 3 categorías, siendo los de categoría 1 los más pequeños y los 3 los más grandes.
 
@@ -101,6 +101,6 @@ Por último, es importante mencionar que la zona de rodaje principal no siempre 
 
 Como dato final, con respecto a las indicaciones auditivas de las pistas o los lugares dentro del aeropuerto, es importante tomar en cuenta que la zona hacia la cual queremos ir no será alcanzada a menos que el indicador auditivo deje de sonar. Es decir, que si queremos ir hacia alfa, y tenemos el indicador hacia la izquierda, debemos girar hacia la izquierda hasta que el indicador no se escuche. Para esta versión, el lector de pantalla anunciará cada vez que entremos en una zona nueva del aeropuerto, así que hay que estar atento a esta indicación también.
 
-[ir a resumen anterior](video11.md)
-[ir a resumen siguiente](video13.md)
-[Ir al índice](index.md)
+- [ir a resumen anterior](video11.md)
+- [ir a resumen siguiente](video13.md)
+- [Ir al índice](index.md)

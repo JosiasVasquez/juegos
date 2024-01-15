@@ -1,8 +1,8 @@
 # Resumen del Video 13: Mapas de decenso y el ILS.
 
-[Ir al índice](index.md)
-[ir a resumen anterior](video12.md)
-[ir a resumen siguiente](video14.md)
+- [Ir al índice](index.md)
+- [ir a resumen anterior](video12.md)
+- [ir a resumen siguiente](video14.md)
 
 Como ya se ha explicado anteriormente, para esta nueva versión de Eurofly se han implementado altitudes y propiedades geológicas. De esta forma, es normal encontrarnos con aeropuertos que tengan montañas o terrenos más elevados en sus cercanías. Para evitar chocar con alguna de estas formaciones geológicas, el juego nos da dos herramientas básicas que se pueden utilizar: mapas de decenso y el ILS.
 
@@ -18,6 +18,6 @@ Los mapas de decenso son un conjunto de información que podemos acceder en las 
 
 El ILS es un sistema que nos ofrecen los aeropuertos para reconocer y dirigirnos hacia una pista determinada, en caso de que haya más de una pista con la misma numeración. Es decir, que si en el aeropuerto hay dos pistas 09, pero una es izquierda y otra derecha, podemos usar esta herramienta para posicionar el avión de tal forma que aterricemos en la pista adecuada. Esto solamente funciona en vuelo, a 5 km de distancia del aeropuerto, y si estamos alineados en la dirección del compás hacia la cual apunta la pista. Solo entonces, tendremos que pulsar control S y elegir la pista en la que queremos aterrizar. Automáticamente, el ILS dirigirá el avión hacia la dirección exacta de cualquiera que sea la pista que hayamos elegido, y no deberemos manipular más las direcciones. En caso de hacerlo por accidente, deberemos volver a reactivar el ILS y elegir la pista de destino.
 
-[ir a resumen anterior](video12.md)
-[ir a resumen siguiente](video14.md)
-[Ir al índice](index.md)
+- [ir a resumen anterior](video12.md)
+- [ir a resumen siguiente](video14.md)
+- [Ir al índice](index.md)

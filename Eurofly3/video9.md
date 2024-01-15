@@ -1,8 +1,8 @@
 # Resumen del Video 9: Navegación y puntos de dirección.
 
-[Ir al índice](index.md)
-[ir a resumen anterior](video8.md)
-[ir a resumen siguiente](video10.md)
+- [Ir al índice](index.md)
+- [ir a resumen anterior](video8.md)
+- [ir a resumen siguiente](video10.md)
 
 El video de hoy estuvo basado en explicar algunos comandos básicos de navegación, así como 3 tipos de navegación posibles tanto en aviones grandes como en aviones pequeños.
 
@@ -17,6 +17,6 @@ con la computadora encendida, si pulsamos tab, podremos ver el panel de navegaci
 
 Esto fue lo más importante en el video de hoy. Para la parte 10 tendremos como utilizar las radios y las frecuencias.
 
-[ir a resumen anterior](video8.md)
-[ir a resumen siguiente](video10.md)
-[Ir al índice](index.md)
+- [ir a resumen anterior](video8.md)
+- [ir a resumen siguiente](video10.md)
+- [Ir al índice](index.md)
