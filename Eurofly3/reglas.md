@@ -1,18 +1,17 @@
 # Reglas de Eurofly 3
 ** Vigentes desde el 1 de octubre de 2023 **
 
-## Tabla de contenidos {#indice}
+## Tabla de contenidos
 1. [Perfil](#1-perfil)
 2. [Aeronaves](#2-aeronaves)
 3. [Aeropuertos](#3-aeropuertos)
-4. [Entrenamiento básico](#4-entrenamiento)
-5. [Tipos de vuelos](#5-tipos)
-6. [Niveles y recompensas](#6-niveles)
-7. [Sanciones y penalidades](#7-sanciones)
-8. [Clasificación de pilotos](#8-clasificación)
-9. [Clasificación de pilotos - Resumen de recompensas](#9-clasificación)
-
-10. [Clasificación de pilotos - Resumen de puntuación y penalidades monetarias por caídas fatales, accidentes fatales, accidentes menores y tareas incompletas](#10-clasificación)
+4. [Entrenamiento básico](#4-entrenamiento-básico)
+5. [Tipos de vuelos](#5-tipos-de-vuelos)
+6. [Niveles y recompensas](#6-niveles-y-recompensas)
+7. [Sanciones y penalidades](#7-sanciones-y-penalidades)
+8. [Clasificación de pilotos](#8-clasificación-de-pilotos)
+9. [Clasificación de pilotos - Resumen de recompensas](#9-clasificación-de-pilotos---resumen-de-recompensas)
+10. [Clasificación de pilotos - Resumen de puntuación y penalidades monetarias por caídas fatales, accidentes fatales, accidentes menores y tareas incompletas](#10-clasificación-de-pilotos---resumen-de-puntuación-y-penalidades-monetarias-por-caídas-fatales-accidentes-fatales-accidentes-menores-y-tareas-incompletas)
 
 Este documento es la traducción no oficial de las reglas originales de Eurofly 3 escritas en eslovaco, que es el idioma principal de desarrollo del juego. Intentamos mantener esta traducción lo más actualizada y precisa posible en comparación con el original. Sin embargo, en caso de surgir dudas o discrepancias en el futuro, siempre prevalecerá el original.
 
@@ -20,7 +19,7 @@ Además de ser un atlas digital para personas con discapacidad visual, Eurofly e
 
 Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
 
-## 1. Perfil {#1-perfil}
+## 1. Perfil
 
 1. Cualquier persona que cree un perfil en Eurofly 3, ya sea fuera de línea u en línea, se convierte en un piloto de Eurofly.
 2. Un perfil en línea requiere una conexión a internet, y al crearlo, el piloto obtiene acceso a los servicios en línea del programa.
@@ -32,9 +31,9 @@ Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
 4. Un perfil fuera de línea no requiere una conexión a internet. Un piloto con este tipo de perfil puede realizar vuelos, pero sin acceso a los servicios en línea. El perfil fuera de línea se crea y almacena solo en la computadora local del jugador, por lo que el jugador es responsable de hacer una copia de seguridad del mismo. Los creadores de Eurofly 3 no pueden restaurar dicho perfil si se pierde.
 5. Un piloto con un perfil fuera de línea puede cambiar su perfil a en línea en cualquier momento, pero los vuelos que haya realizado como piloto fuera de línea no se contarán y su clasificación será igual a la de un jugador nuevo, excepto por las calificaciones que pueda haber obtenido como piloto fuera de línea.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 2. Aeronaves {#2-aeronaves}
+## 2. Aeronaves
 
 1. La flota de Eurofly comprende más de 100 aeronaves de varios tipos y características.
 2. El piloto solo puede volar las aeronaves para las cuales está calificado. El piloto califica para un tipo de aeronave determinado al completar el entrenamiento para ese tipo de aeronave.
@@ -49,9 +48,9 @@ Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
    - Aeronaves alquiladas con las que realizan vuelos gratuitos no regulados por estas reglas, por una tarifa.
 7. Todas las aeronaves están equipadas con una función de turbo que permite aumentar varias veces la potencia máxima de sus motores. Esta función está diseñada principalmente con fines de prueba y no debe usarse durante un vuelo si se supone que ese vuelo debe ser calificado y recompensado financieramente. Al activar la función de turbo durante más de 10 segundos, el piloto pierde el derecho a cualquier ganancia financiera o de puntos durante la duración del vuelo, pero aún puede perder puntos y ganancias por ese vuelo en caso de una caída fatal o accidente.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 3. Aeropuertos {#3-aeropuertos}
+## 3. Aeropuertos
 
 1. Eurofly vuela por todo el mundo y utiliza cientos de aeropuertos. La base de datos de aeropuertos se expande y actualiza continuamente.
 2. Algunos aeropuertos o pistas pueden estar temporalmente cerrados.
@@ -60,9 +59,9 @@ Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
 5. Cada aeropuerto está marcado con un grado de dificultad que refleja la dificultad de aterrizar en ese aeropuerto en particular en relación con el terreno circundante. Inicialmente, solo están disponibles los aeropuertos de baja dificultad para el piloto. Solo más tarde el piloto puede obtener acceso a aeropuertos de mayor dificultad.
 6. Algunas aeronaves requieren servicios de mantenimiento para su operación. En cuanto a la provisión de estos servicios, los aeropuertos se describen como "con" o "sin" servicios de mantenimiento.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 4. Entrenamiento básico {#4-entrenamiento}
+## 4. Entrenamiento básico
 
 1. La formación básica del piloto se realiza en tres niveles diferenciados como 1, 2 y 3. Cada nivel tiene varias etapas designadas como A, B, C, D. Cada etapa implica la formación en una nueva aeronave. Al final de cada etapa, el piloto estará calificado para esa aeronave.
 2. La formación básica incluye los siguientes niveles y etapas:
@@ -112,9 +111,9 @@ Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
 7. Después de completar toda la formación básica, el piloto puede realizar todos los tipos de vuelos disponibles y sus vuelos se califican y se incluyen en la clasificación.
 8. El piloto recibirá una recompensa financiera en su cuenta personal por todos los vuelos que realice después de completar la formación básica. Las excepciones son los vuelos de formación y práctica, que no son recompensados financieramente. El piloto puede utilizar el dinero ganado, por ejemplo, para adquirir calificaciones adicionales.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 5. Tipos de vuelos {#5-tipos}
+## 5. Tipos de vuelos
 
 ### **Vuelos de Entrenamiento Obligatorios (MTF)**
 
@@ -163,9 +162,9 @@ Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
 - El piloto tiene un límite de tiempo de varias horas para completar la tarea. El piloto solo puede realizar la tarea si tiene al menos una de sus aeronaves, independientemente de su tipo, en el aeropuerto de despegue. Si el piloto no cumple con esta condición, puede utilizar parte del límite de tiempo asignado para completar esta tarea para llegar primero al aeropuerto de despegue.
 - La tarea se considera completada solo si el vuelo se realiza completamente dentro del límite de tiempo especificado.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 6. Niveles y recompensas {#6-niveles}
+## 6. Niveles y recompensas
 
 1. Después de crear una cuenta, cada piloto se le asigna el nivel de Aprendiz.
 2. Después de completar la formación básica, a cada piloto se le asigna el nivel de Novato.
@@ -186,9 +185,9 @@ Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
 11. Por cada vuelo realizado, excepto los vuelos de formación y práctica, el piloto recibe una recompensa financiera que se acredita en su cuenta personal. El piloto puede utilizar los fondos para pagar calificaciones adicionales o para pagar el alquiler de una aeronave si desea realizar un vuelo libre desde un aeropuerto donde no tiene su propia aeronave.
 12. Si el piloto utiliza la función de turbo durante más de 10 segundos en cualquier momento durante el vuelo, automáticamente pierde el derecho a cualquier recompensa financiera o puntos para ese vuelo.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 7. Sanciones y penalidades {#7-sanciones}
+## 7. Sanciones y penalidades
 
 1. El piloto también puede perder puntos y fondos ganados en caso de una parada fatal, un choque fatal, un choque menor o después de acumular 20 puntos de penalización. La pérdida de puntos puede hacer que el piloto baje en la clasificación.
 2. Una parada fatal es un choque que ocurre durante el vuelo y resulta en que la aeronave se estrelle (entrando en una parada irrecuperable y, por lo tanto, estrellándose contra el suelo). En este caso, el vuelo se aborta y el piloto no puede continuar. Una parada fatal se penaliza con la pérdida de la mayor cantidad de puntos y fondos.
@@ -201,9 +200,9 @@ Las siguientes reglas rigen el comportamiento de los pilotos de Eurofly:
    - Entrar en la pista sin permiso
    Para estas infracciones, el piloto no es penalizado con una pérdida directa de puntos, sino que recibe un punto de penalización. Después de acumular 20 puntos de penalización, se le restará un punto y 1 Euro.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 8. Clasificación de pilotos {#8-clasificación}
+## 8. Clasificación de pilotos
 
 Cada vuelo se reflejará en la clasificación de los pilotos. Dependiendo de la dificultad de cada vuelo, el piloto recibe puntos, bonificaciones de puntos, recompensas financieras y bonificaciones financieras. Tanto los puntos como las recompensas financieras también pueden perderse.
 
@@ -249,9 +248,9 @@ Cada vuelo se reflejará en la clasificación de los pilotos. Dependiendo de la 
 - Si el piloto no realiza el vuelo de carga de negocios, es decir, no lo completa dentro del límite de tiempo establecido, perderá 16 puntos y 30 euros.
 - En caso de una parada fatal durante un vuelo de carga de negocios, el piloto pierde 80 puntos y 40 euros. En caso de un choque fatal, pierde 40 puntos y 20 euros, y en caso de un choque menor, pierde 8 puntos y 4 euros.
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 9. Clasificación de pilotos - Resumen de recompensas {#9-clasificación}
+## 9. Clasificación de pilotos - Resumen de recompensas
 
 Esta tabla proporciona un resumen de las recompensas asociadas con cada tipo de vuelo en el sistema de clasificación de pilotos. Incluye la cantidad de puntos ganados, puntos de bonificación, ganancias en Euros y bonificaciones adicionales a las ganancias para cada tipo de vuelo. Estos valores son importantes para los pilotos que desean avanzar en la clasificación y obtener recompensas por sus vuelos.
 
@@ -266,9 +265,9 @@ Esta tabla proporciona un resumen de las recompensas asociadas con cada tipo de 
 | Vuelo de Transporte de Negocios (BTF)   | 6      | 4                      | 1.80                 | 3.60                                       |
 | Vuelo de Carga de Negocios (BCF)        | 8      | 4                      | 2.00                 | 4.00                                       |
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
 
-## 10. Clasificación de pilotos - Resumen de puntuación y penalidades monetarias por caídas fatales, accidentes fatales, accidentes menores y tareas incompletas {#10-clasificación}
+## 10. Clasificación de pilotos - Resumen de puntuación y penalidades monetarias por caídas fatales, accidentes fatales, accidentes menores y tareas incompletas
 
 Esta tabla resume las penalizaciones en puntos y Euros que se aplican a los pilotos en caso de fallos graves, choques y tareas no completadas durante diferentes tipos de vuelos. Es importante para los pilotos comprender las consecuencias de estos eventos en su clasificación y ganancias.
 
@@ -283,4 +282,4 @@ Esta tabla resume las penalizaciones en puntos y Euros que se aplican a los pilo
 | Vuelo de Transporte de Negocios (BTF)   | -60                   | -36                 | -30                   | -18                 | -3.60                | -3.60             | -12          | -24        |
 | Vuelo de Carga de Negocios (BCF)        | -80                   | -40                 | -40                   | -20                 | -4                   | -4                | -16          | -30        |
 
-[Volver a la tabla de contenidos](#indice)
+[Volver a la tabla de contenidos](#Tabla-de-contenidos)
